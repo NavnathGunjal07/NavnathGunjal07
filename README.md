@@ -1,4 +1,4 @@
-# Hi there 👋, I am Lloyd aka The Full Stack Junkie
+# Hi there 👋, I am Navnath Gunjal
 
 > Hardworking and Passionate developer. Love building project ranging from frontend all the way to backend
 
